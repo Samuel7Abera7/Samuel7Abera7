@@ -1,6 +1,6 @@
 <!-- TITLE -->
 <h1 align="center">Hi 👋, I'm Samuel Abera</h1>
-<h3 align="center">A passionate Full Stack Developer with 3+ years of experience</h3>
+<h3 align="center">A passionate Full Stack Developer with 5+ years of experience</h3>
 
 <!-- PROFILE VIEWS -->
 <p align="center">
@@ -24,7 +24,9 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/node-original.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/nest-original.svg" alt="nestjs" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -38,7 +40,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel7abera7&show_icons=true&locale=en" alt="samuel7abera7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera7&show_icons=true&locale=en" alt="samuel7abera7" />
 </p>
 
 ---
@@ -46,7 +48,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel7abera7&" alt="samuel7abera7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelabera7&" alt="samuel7abera7" />
 </p>
 
 ---
@@ -54,7 +56,7 @@
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel7abera7&layout=compact" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera7&layout=compact" alt="top-langs" />
 </p>
 
 ---

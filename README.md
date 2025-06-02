@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera7&show_icons=true&locale=en" alt="samuel7abera7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuel7abera7&show_icons=true&locale=en" alt="samuel7abera7" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelabera7&" alt="samuel7abera7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel7abera7&" alt="samuel7abera7" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera7&layout=compact" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel7abera7&layout=compact" alt="top-langs" />
 </p>
 
 ---

@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m looking to collaborate on **Nuxt/NestJS/Node projects**
 
-- 💬 Ask me about **Laravel, Vue, React, APIs, DevOps**
+- 💬 Ask me about **TypeScript, Nuxt, Node.js, TailwindCSS**
 
 - 📫 How to reach me: **sammytg66@gmail.com**
 

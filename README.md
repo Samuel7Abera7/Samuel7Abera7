@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👯 I’m looking to collaborate on **Nuxt/NestJS/Node projects**
+- 👯 I’m looking to collaborate on **Vue/Nuxt/Laravel**
 
-- 💬 Ask me about **TypeScript, Nuxt, Node.js, TailwindCSS**
+- 💬 Ask me about **Vue, Nuxt, Laravel, TailwindCSS**
 
 - 📫 How to reach me: **sammytg66@gmail.com**
 
@@ -41,40 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel7abera7&show_icons=true&locale=en" alt="samuel7abera7" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel7abera7&" alt="samuel7abera7" />
-</p>
-
----
-
-### 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel7abera7&layout=compact" alt="top-langs" />
-</p>
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
-</p>
-
 
 <!---
 Samuel7Abera7/Samuel7Abera7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
